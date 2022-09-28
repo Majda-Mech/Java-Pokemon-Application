@@ -27,6 +27,7 @@ public class ElectricPokemon extends Pokemon {
         this.lightup = lightup;
     }
 
+//    ikhaat git
     @Override
     public void eats(String food) {
         System.out.println("nom nom nom" + food);
