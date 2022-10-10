@@ -15,7 +15,6 @@ public class Main {
         WaterPokemon Chocin = new WaterPokemon ("Chocin", 5, "40", "water", "fish", "brieeey");
         System.out.println( Chocin.eats());
 
-
         Chocin.setSwim(Chocin.isSwim());
         Chocin.speaks("brieeeuj");
 
